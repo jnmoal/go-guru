@@ -1,5 +1,12 @@
 # go-guru package
 
-A short description of your package.
+This package invokes the [guru tool][1] and displays the output.
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+It relies on the [go-config][2] and [go-get][3] packages.
+
+# Contributing
+Contributions are always welcome, feel free to fork this repository, make you changes and open a pull request.
+
+[1]:(https://godoc.org/golang.org/x/tools/cmd/guru)
+[2]:(https://atom.io/packages/go-config)
+[3]:(https://atom.io/packages/go-get)
