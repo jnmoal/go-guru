@@ -1,7 +1,7 @@
 {
   "name": "go-guru",
   "main": "./lib/go-guru",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "author": "Jean-Nicolas Moal <jn.moal@gmail.com> (https://github.com/jnmoal)",
   "description": "A package that calls the guru tool and prints out its output. Still in development.",
   "keywords": [
@@ -14,7 +14,7 @@
   },
   "repository": "https://github.com/jnmoal/go-guru",
   "homepage": "https://atom.io/packages/go-guru",
-  "bugs":{
+  "bugs": {
     "url": "https://github.com/jnmoal/go-guru/issues"
   },
   "license": "MIT",
@@ -28,7 +28,7 @@
     "go-config",
     "go-get"
   ],
-  "consumedServices":{
+  "consumedServices": {
     "go-config": {
       "versions": {
         "1.0.0": "consumeGoconfig"
