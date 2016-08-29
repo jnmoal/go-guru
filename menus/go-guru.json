@@ -1,0 +1,34 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "guru describe",
+        "command": "go-guru:describe"
+      },
+      {
+        "label": "guru callers",
+        "command": "go-guru:callers"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "go-guru",
+          "submenu": [
+            {
+              "label": "descibe",
+              "command": "go-guru:describe"
+            },
+            {
+              "label": "callers",
+              "command": "go-guru:callers"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
