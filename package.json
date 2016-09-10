@@ -9,9 +9,6 @@
     "golang",
     "guru"
   ],
-  "activationCommands": {
-    "atom-workspace": "go-guru:describe"
-  },
   "repository": "https://github.com/jnmoal/go-guru",
   "homepage": "https://atom.io/packages/go-guru",
   "bugs": {
