@@ -36,5 +36,25 @@
         "1.0.0": "consumeGoget"
       }
     }
+  },
+  "configSchema": {
+    "guruUserScope": {
+      "title": "scope",
+      "description": "Element in this comma separated list will be passed to the guru tool as -scope argument.",
+      "type": "string",
+      "default": "",
+      "order": 1
+    },
+    "guruComputeScope": {
+      "title": "Include atom project",
+      "description": "This will add the atom project's root directory to the scope.",
+      "type": "string",
+      "default": "yes",
+      "enum": [
+        "yes",
+        "no"
+      ],
+      "order": 2
+    }
   }
 }
