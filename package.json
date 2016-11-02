@@ -1,7 +1,7 @@
 {
   "name": "go-guru",
   "main": "./lib/go-guru",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "author": "Jean-Nicolas Moal <jn.moal@gmail.com> (https://github.com/jnmoal)",
   "description": "A package that calls the guru tool and prints out its output. Still in development.",
   "keywords": [
