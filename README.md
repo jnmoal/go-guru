@@ -1,3 +1,8 @@
+# The end
+I don't really have much time for this project, so consider it as abandonned.
+
+Might be deleted in the futur.
+
 # go-guru package
 
 This package invokes the [guru tool][1] and displays the output.
