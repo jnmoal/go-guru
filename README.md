@@ -1,5 +1,5 @@
 # The end
-I don't really have much time for this project, so consider it as abandonned.
+I don't really have much time for this project, so consider it as abandoned.
 
 Might be deleted in the futur.
 
